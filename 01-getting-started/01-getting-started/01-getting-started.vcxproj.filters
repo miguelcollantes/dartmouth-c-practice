@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="04-mult-lines.c">
+    <ClCompile Include="07-for-loop.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
