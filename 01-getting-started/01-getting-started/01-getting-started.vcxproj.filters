@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="07-for-loop.c">
+    <ClCompile Include="09-error-in-loops.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
