@@ -19,7 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01-hello-world.c" />
     <ClCompile Include="02-hello-mooc.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

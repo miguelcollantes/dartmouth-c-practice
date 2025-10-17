@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01-hello-world.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="02-hello-mooc.c">
       <Filter>Source Files</Filter>
     </ClCompile>
