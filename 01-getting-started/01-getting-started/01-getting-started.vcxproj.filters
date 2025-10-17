@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="02-hello-mooc.c">
+    <ClCompile Include="04-mult-lines.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
