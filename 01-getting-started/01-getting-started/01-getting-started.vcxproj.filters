@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="18-scanf_s-mult-char.c">
+    <ClCompile Include="22-convert-decimal.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
