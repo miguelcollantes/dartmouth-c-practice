@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="22-convert-decimal.c">
+    <ClCompile Include="24-divide-numbers.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
