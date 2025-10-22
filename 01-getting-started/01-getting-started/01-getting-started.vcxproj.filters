@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="16-print-char.c">
+    <ClCompile Include="17-scanf_s-char.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
