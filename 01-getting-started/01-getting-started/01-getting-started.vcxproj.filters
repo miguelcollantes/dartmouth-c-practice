@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="26-scanf_s-remainder-int-division.c">
+    <ClCompile Include="28-int-to-double-avg.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
