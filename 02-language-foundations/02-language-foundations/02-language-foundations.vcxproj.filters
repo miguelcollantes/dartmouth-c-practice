@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="02-language-foundations.cpp">
+    <ClCompile Include="04-if-act-2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
