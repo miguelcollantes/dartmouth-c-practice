@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="13-if-tree-act.c">
+    <ClCompile Include="18-array-act-2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
