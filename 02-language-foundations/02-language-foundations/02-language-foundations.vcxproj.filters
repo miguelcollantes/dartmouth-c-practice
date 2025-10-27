@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="18-array-act-2.c">
+    <ClCompile Include="26-while-loop.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
