@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="37-even-odd-number-letters.c">
+    <ClCompile Include="39-find-longest-word.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
