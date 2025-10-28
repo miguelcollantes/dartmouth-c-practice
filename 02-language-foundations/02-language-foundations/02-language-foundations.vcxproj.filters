@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="31-pract-while-loop-2.c">
+    <ClCompile Include="37-even-odd-number-letters.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
