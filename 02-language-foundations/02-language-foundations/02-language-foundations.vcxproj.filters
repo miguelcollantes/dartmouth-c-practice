@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="39-find-longest-word.c">
+    <ClCompile Include="42-find-letter-act.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
