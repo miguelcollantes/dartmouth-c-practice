@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="46-final.c">
+    <ClCompile Include="05-find-smallest-int.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
