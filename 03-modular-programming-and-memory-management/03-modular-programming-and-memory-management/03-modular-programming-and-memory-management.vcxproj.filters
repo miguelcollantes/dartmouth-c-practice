@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="08-recursion-sum-integers.c">
+    <ClCompile Include="10-compute-space-act.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
