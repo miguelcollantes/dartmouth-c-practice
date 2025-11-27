@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="12-memory-usage-act.c">
+    <ClCompile Include="22-final.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
