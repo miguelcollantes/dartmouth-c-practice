@@ -362,3 +362,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /02-language-foundations/02-language-foundations/46-final.c
+/03-modular-programming-and-memory-management/03-modular-programming-and-memory-management/22-final.c
