@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="07-act-arrays-and-functions.c">
+    <ClCompile Include="10-act-arrays-and-memory.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
