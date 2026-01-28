@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="10-act-arrays-and-memory.c">
+    <ClCompile Include="14-act-print-text-reverse-order.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
