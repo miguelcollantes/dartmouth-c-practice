@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="21-act-free-linked-list-students.c">
+    <ClCompile Include="28-act-count-redundancies.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
