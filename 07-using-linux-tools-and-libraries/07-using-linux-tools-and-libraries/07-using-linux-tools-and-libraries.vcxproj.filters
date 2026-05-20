@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="29-final.c">
+    <ClCompile Include="03-act-3-using-jpeg-library.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
